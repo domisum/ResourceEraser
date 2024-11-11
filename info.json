@@ -1,0 +1,11 @@
+{
+  "name": "ResourceEraser",
+  "version": "1.0.0",
+  "title": "Resource Eraser",
+  "author": "Tergiver / Nordee / CaptainWHot / domisum",
+  "contact": "factorio@domisum.io",
+  "homepage": "https://github.com/domisum/ResourceEraser",
+  "description": "Resource Eraser allows you to erase resources from the map.",
+  "dependencies": ["base >= 2.0"],
+  "factorio_version": "2.0"
+}
