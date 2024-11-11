@@ -3,5 +3,5 @@ Version: 1.0.0
 Date: 2024-11-11
   Changes:
 	- Legacy version: https://mods.factorio.com/mod/OreEraser
-    - Update to Factorio version 2.0
+	- Update to Factorio version 2.0
 	- Change include/exclude resource settings to be comma separated exclude list
